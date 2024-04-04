@@ -1,2 +1,2 @@
-# consumer-issues
+# Consumer Issues
 Issues from consumers
